@@ -19,3 +19,4 @@ Are you interested in speaking?  Please submit a pull request to this page with 
 * [Julka Grodel](https://github.com/julka) - Is your code ready for PHP7?
 * [Billy Poggi] (https://www.linkedin.com/in/billy-poggi-93855427/) - DevOps for Leaders, The People, Processes and Technology
 * Rick Spencer (Bitnami): I could do a comparison of helm vs jsonnet for managing deployments
+* Kiley Williams (Polyverse Corporation) - Moving-Target Defense: Binary Scrambling and Goal-Seeking solutions create an environment of constantly-shifting attack surfaces, thwarting zero-day attacks, all through one line of code. http://polyverse.io | http://linkedin.com/in/kileyw
